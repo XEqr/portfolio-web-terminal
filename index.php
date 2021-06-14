@@ -2,7 +2,7 @@
 
 <html>
   <head>
-    <title>Ethan Jones - Portfolio & about me</title>
+    <title>Noah</title>
 
     <link href="https://fonts.googleapis.com/css?family=Ubuntu+Mono&display=swap" rel="stylesheet">
     <link href="css/terminal.css?<?php echo time();?>" rel="stylesheet" />
